@@ -1,3 +1,5 @@
+connects a Raspberry Pi to a MySQL database, fetches relay states for specific meters, and controls relay pins based on the fetched states in a continuous loop while handling errors and cleanup.
+
 Script for turning the relay on and off
 ________________________________________
 connect to putty (IP Address)
